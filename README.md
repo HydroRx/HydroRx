@@ -2,7 +2,7 @@
 
 ---
 
-Starting over with web development — taking it slow, building things from scratch, and keeping it simple.
+Starting over with web development - taking it slow, building things from scratch, and keeping it simple.
 
 
 Right now:
